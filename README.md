@@ -23,4 +23,4 @@ EXP 09: To study and implement the read(), write(), and fork() system calls in U
 
 EXP 10:Program to create orphan process and zombie process.
 
-EXP 11:Write a program to create threads in Linux
+EXP 11:Program to create threads in Linux
